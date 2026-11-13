@@ -1,1 +1,3 @@
 
+def calculate_balance(deposit, withdrawal):
+    return deposit - withdrawal
